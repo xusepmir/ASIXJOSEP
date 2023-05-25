@@ -1,0 +1,32 @@
+----------------------------------------------------------------------------------------------------
+El log s'ha restablit correctament.(Wed May 24 00:30:33 CEST 2023)(CN=admin)
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------------
+La ou charru s'ha creat correctament.(Wed May 24 00:30:48 CEST 2023)(CN=admin)
+-----------------------------------------------------
+-----------------------------------------------------
+El user  no s'ha borrat correctament , degut a que ja esta borrat o s'ha produit algun error.(Wed May 24 13:42:24 CEST 2023)(CN=MariaEnriquezJosep)
+-----------------------------------------------------
+-----------------------------------------------------
+El user pepito no s'ha borrat correctament , degut a que ja esta borrat o s'ha produit algun error.(Wed May 24 13:42:29 CEST 2023)(CN=MariaEnriquezJosep)
+-----------------------------------------------------
+-----------------------------------------------------
+El user  no s'ha borrat correctament , degut a que ja esta borrat o s'ha produit algun error.(Wed May 24 23:15:12 CEST 2023)(CN=MariaEnriquezJosep)
+-----------------------------------------------------
+-----------------------------------------------------
+El user pepaso2 no s'ha borrat correctament , degut a que ja esta borrat o s'ha produit algun error.(Wed May 24 23:15:20 CEST 2023)(CN=MariaEnriquezJosep)
+-----------------------------------------------------
+-----------------------------------------------------
+El user  no s'ha borrat correctament , degut a que ja esta borrat o s'ha produit algun error.(Wed May 24 23:17:53 CEST 2023)(CN=MariaEnriquezJosep)
+-----------------------------------------------------
+-----------------------------------------------------
+El user pepaso2 s'ha borrat correctament.(Wed May 24 23:17:56 CEST 2023)(CN=MariaEnriquezJosep)
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+El user  no s'ha borrat correctament , degut a que ja esta borrat o s'ha produit algun error.(Wed May 24 23:18:22 CEST 2023)(CN=MariaEnriquezJosep)
+-----------------------------------------------------
+-----------------------------------------------------
+El user pepaso2 no s'ha borrat correctament , degut a que ja esta borrat o s'ha produit algun error.(Wed May 24 23:18:25 CEST 2023)(CN=MariaEnriquezJosep)
+-----------------------------------------------------
